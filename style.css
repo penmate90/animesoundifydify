@@ -1,0 +1,39 @@
+#head{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(158, 161, 158);
+    color: white;
+    
+}
+#head h2{
+    font-family: 'Courgette', cursive;
+    font-size: 35px;
+    
+}
+
+#head p{
+    font-family: 'Roboto Mono', monospace;
+}
+
+button{
+    width: 200px;
+    font-size: 25px;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+body{
+    background-color: rgb(228, 250, 225);
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(221, 212, 212);
+    font-family: 'Courgette', cursive;
+    line-height: 3;
+    font-size: 15px;
+
+}
